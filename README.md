@@ -1,11 +1,7 @@
-![](https://st.overclockers.ru/legacy/blog/34342/147768_O.jpg)
-Самый простой способ установки **Shadowsocks Proxy**
-Установка
-Скачиваем скрипт 
+# Простой способ установки Shadowsocks Proxy
 
-```
-wget https://raw.githubusercontent.com/unixhostpro/shadowsocks-simple-install/master/shadowsocks-simple-install.sh
-```
+## Установка
+Клонируем репозиторий
 
 Устанавливаем права на запуск
 ```
@@ -32,16 +28,3 @@ chmod +x shadowsocks-simple-install.sh
 - [Клиенты для других систем](https://shadowsocks.org/en/download/clients.html "Клиенты для других систем")
 
 Для быстрой настройки копируем ссылку `ss` и переходим по ней в браузере
-
-**Мы в социальных сетях**
-
-<i class="fa fa-linux"></i> [Наш сайт UnixHost](https://unixhost.pro/)
-
-<i class="fa fa-book"></i> [Блог UnixHost](https://blog.unixhost.pro/)
-
-<i class="fa fa-paper-plane"></i> [Telegram](https://t.me/unixhostpro)
-
-<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/UnixHostPro)
-
-<i class="fa fa-facebook-square"></i> [Facebook](https://www.facebook.com/unixhost.pro)
-
